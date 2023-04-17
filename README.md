@@ -1,3 +1,8 @@
+
+MY-RESTAURANT-TEMPLATE
+
+A brief description of what this project does and who it's for
+
 Restaurant Website Template
 This is a responsive restaurant website template built using HTML, Bootstrap, CSS, and JavaScript. This template is suitable for a restaurant, cafe, or any food-related business.
 
