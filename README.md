@@ -9,11 +9,6 @@ This is a responsive restaurant website template built using HTML, Bootstrap, CS
 Getting Started
 To get started with this template, simply download or clone the repository to your local machine.
 
-bash
-Copy code
-git clone https://github.com/your-username/restaurant-website-template.git
-After that, open the index.html file in your preferred web browser to view the website.
-
 Features
 This restaurant website template comes with the following features:
 
